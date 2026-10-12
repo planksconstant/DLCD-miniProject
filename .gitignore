@@ -1,0 +1,7 @@
+*.vcd
+serial_adder_sim
+.DS_Store
+*.exe
+*.env
+*.o
+*.out
